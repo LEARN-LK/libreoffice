@@ -15,6 +15,9 @@ It is a powerful alternative to Microsoft Office and works on **Windows, macOS, 
 
 1. Visit the official LibreOffice website: [https://www.libreoffice.org/download](https://www.libreoffice.org/download)
 2. Choose your operating system (Windows / macOS / Linux).
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/libre-site.png"  style="max-width: 100%;width: 500px;">
+
 3. Download the **Main Installer** (Fresh or Still version).
 
    * *Fresh*: Latest features, best for home users.
@@ -23,7 +26,15 @@ It is a powerful alternative to Microsoft Office and works on **Windows, macOS, 
 ### **Installation (Windows)**
 
 1. Double-click the downloaded `.msi` file.
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/libre-2.png"  style="max-width: 100%;width: 00px;">
+
+
 2. Follow the setup wizard → Click **Next**.
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/04InstallWelcome.png"  style="max-width: 100%;width: 500px;">
+
+
 3. Choose *Typical installation* for most users.
 4. Click **Install** → Wait for installation to finish.
 5. Open LibreOffice from Start Menu.
@@ -48,17 +59,17 @@ sudo apt install libreoffice
 | Feature           | Microsoft Office             | LibreOffice                      |
 | ----------------- | ---------------------------- | -------------------------------- |
 | Cost              | Paid (Subscription/One-time) | Free & Open Source               |
-| Word Processing   | MS Word                      | LibreOffice Writer               |
-| Spreadsheets      | MS Excel                     | LibreOffice Calc                 |
-| Presentations     | MS PowerPoint                | LibreOffice Impress              |
-| Database          | MS Access                    | LibreOffice Base                 |
-| Graphics          | MS Visio (extra license)     | LibreOffice Draw                 |
-| Equation Editor   | Built-in (limited)           | LibreOffice Math                 |
+| Word Processing   | MS Word     <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/word.png" style="width: 20px;">                 | LibreOffice Writer  <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/writer.png" style="width: 20px;">             |
+| Spreadsheets      | MS Excel  <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/excel.png" style="width: 20px;">                   | LibreOffice Calc     <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/calc.png" style="width: 20px;">            |
+| Presentations     | MS PowerPoint <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/ppt.png" style="width: 20px;">               | LibreOffice Impress <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/impress.png" style="width: 20px;">             |
+| Database          | MS Access  <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/access.png" style="width: 20px;">     | LibreOffice Base  MS Access  <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/base.png"  style="width: 15px;">  |
+| Graphics          | MS Visio (extra license) <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/visio.png" style="width: 20px;">    | LibreOffice Draw   <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/draw.png" style="width: 20px;">              |
 | File Format       | DOCX, XLSX, PPTX             | ODF (ODT, ODS, ODP) + MS formats |
 | Platform          | Windows, macOS, Web          | Windows, macOS, Linux            |
 | Cloud Integration | OneDrive, SharePoint         | Limited (manual integration)     |
 
 ---
+
 
 ## **4. Word Processing: MS Word vs. LibreOffice Writer**
 
