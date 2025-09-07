@@ -1,4 +1,4 @@
-# **LibreOffice Complete Guide**
+# **LibreOffice **
 
 ---
 
@@ -114,12 +114,16 @@ sudo apt install libreoffice
 * Groups: Clipboard, Font, Paragraph, Styles, Editing.
 * Contextual tabs appear depending on task.
 
+  <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/ms-off-toolbar.png"  style="max-width: 100%;width: 700px;">
+
 ### **LibreOffice Toolbar**
 
 * **Default Layout (Classic):**
 
   * File, Edit, View, Insert, Format, Tools, Table, Help.
   * Toolbars: Standard, Formatting, Drawing.
+
+   <img src="https://github.com/LEARN-LK/libreoffice/blob/main/img/libretoolbar.png"  style="max-width: 100%;width: 500px;">  
 * **Optional “Ribbon-like” UI (called Notebookbar):**
 
   * View → User Interface → Choose *Tabbed*.
