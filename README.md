@@ -5,3 +5,7 @@ LibreOffice is a free and open-source office suite developed by The Document Fou
 It is a powerful alternative to Microsoft Office and works on Windows, macOS, and Linux.
 
 [Libreoffice](https://github.com/LEARN-LK/libreoffice/blob/main/libre.md)
+
+
+## More Info
+Check out the [LibreOffice Guide](libre.md).
