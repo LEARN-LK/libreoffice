@@ -6,6 +6,3 @@ It is a powerful alternative to Microsoft Office and works on Windows, macOS, an
 
 [Libreoffice](https://github.com/LEARN-LK/libreoffice/blob/main/libre.md)
 
-
-## More Info
-Check out the [LibreOffice Guide](libre.md).
