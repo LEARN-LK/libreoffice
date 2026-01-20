@@ -71,6 +71,10 @@ A **one-page official circular** containing:
 
 ##  Step 3: Insert University Header
 
+### 3  add Header
+
+1. **Insert** > **Header and Footer** > **Header** > **Default Page Style**
+
 ### 3.1 Insert Logo
 
 1. Go to **Insert → Image**
