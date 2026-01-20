@@ -94,7 +94,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 4: Insert Horizontal Line
+##  Step 4: Insert Horizontal Line
 
 1. Place cursor below header
 2. Go to **Format → Paragraph → Borders**
@@ -103,7 +103,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 5: Add Circular Details
+##  Step 5: Add Circular Details
 
 Type:
 
@@ -117,7 +117,7 @@ Date: 15 January 2026
 
 ---
 
-## 🟢 Step 6: Add Subject Line
+##  Step 6: Add Subject Line
 
 Type:
 
@@ -131,7 +131,7 @@ Subject: Faculty Staff Meeting – February 2026
 
 ---
 
-## 🟢 Step 7: Write Body Text
+##  Step 7: Write Body Text
 
 Type:
 
@@ -145,7 +145,7 @@ This is to inform all academic and non-academic staff that a faculty staff meeti
 
 ---
 
-## 🟢 Step 8: Insert Table (Meeting Details)
+##  Step 8: Insert Table (Meeting Details)
 
 1. Go to **Insert → Table**
 2. Columns: **2**
@@ -164,7 +164,7 @@ Fill as follows:
 
 ---
 
-## 🟢 Step 9: Insert Agenda (Bulleted List)
+##  Step 9: Insert Agenda (Bulleted List)
 
 Type:
 
@@ -181,7 +181,7 @@ Press **Enter**, then click **Bullets**
 
 ---
 
-## 🟢 Step 10: Insert Signature Block
+##  Step 10: Insert Signature Block
 
 Leave space and type:
 
@@ -194,7 +194,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 11: Insert Footer with Page Number
+##  Step 11: Insert Footer with Page Number
 
 1. Go to **Insert → Footer → Default Page Style**
 2. Click in footer
@@ -203,7 +203,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 12: Spell Check
+##  Step 12: Spell Check
 
 1. Go to **Tools → Spelling**
 2. Correct highlighted words
@@ -211,7 +211,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 13: Save Document
+##  Step 13: Save Document
 
 1. **File → Save As**
 2. File name:
@@ -223,7 +223,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 14: Export as PDF
+##  Step 14: Export as PDF
 
 1. **File → Export As → Export as PDF**
 2. Click **Export**
@@ -231,7 +231,7 @@ Faculty of Science
 
 ---
 
-## 🟢 Step 15: Print Preview
+##  Step 15: Print Preview
 
 1. **File → Print Preview**
 2. Check formatting
@@ -239,7 +239,7 @@ Faculty of Science
 
 ---
 
-# 🧠 Practice Tasks (For Trainees)
+#  Practice Tasks (For Trainees)
 
 ✔ Change meeting date
 ✔ Add another agenda item
@@ -249,7 +249,7 @@ Faculty of Science
 
 ---
 
-# 📊 Learning Outcomes
+#  Learning Outcomes
 
 After this exercise, staff will be able to:
 
@@ -261,11 +261,5 @@ After this exercise, staff will be able to:
 
 ---
 
-If you want, I can also:
 
-* ✔ Convert this into a **training handout (PDF)**
-* ✔ Create **practice worksheets**
-* ✔ Prepare **Sinhala version**
-* ✔ Design a **2-day LibreOffice training plan**
 
-Just tell me 👍
