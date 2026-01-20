@@ -1,21 +1,13 @@
-Below is a **complete, practical training scenario + step-by-step guide** designed **specifically for non-technical academic / administrative staff** to practice **LibreOffice Writer**.
-This is suitable for **university office staff, faculty clerks, department assistants, and academic officers**.
+
+#  LibreOffice Writer – Practical Training Scenario & Full Guide
 
 ---
 
-# 🖥 LibreOffice Writer – Practical Training Scenario & Full Guide
-
-**Target group:** Non-technical academic / administrative staff
-**Skill level:** Beginner → Basic Intermediate
-**Duration:** 2–3 hours (can be split into sessions)
-
----
-
-## 🎯 Training Scenario (Real-World Based)
+##  Training Scenario (Real-World Based)
 
 ### **Scenario Title:**
 
-📄 *Preparing an Official University Circular*
+*Preparing an Official University Circular*
 
 ### **Situation:**
 
@@ -33,7 +25,7 @@ The document must:
 
 ---
 
-## 📌 Expected Final Output
+##  Expected Final Output
 
 A **one-page official circular** containing:
 
@@ -47,11 +39,11 @@ A **one-page official circular** containing:
 
 ---
 
-# 🧭 FULL STEP-BY-STEP GUIDE
+#  FULL STEP-BY-STEP GUIDE
 
 ---
 
-## 🟢 Step 1: Open LibreOffice Writer
+##  Step 1: Open LibreOffice Writer
 
 1. Click **Start Menu**
 2. Open **LibreOffice**
@@ -60,7 +52,7 @@ A **one-page official circular** containing:
 
 ---
 
-## 🟢 Step 2: Set Page Layout (Very Important)
+##  Step 2: Set Page Layout (Very Important)
 
 1. Go to **Format → Page Style**
 2. Set:
@@ -77,13 +69,13 @@ A **one-page official circular** containing:
 
 ---
 
-## 🟢 Step 3: Insert University Header
+##  Step 3: Insert University Header
 
 ### 3.1 Insert Logo
 
 1. Go to **Insert → Image**
 2. Select university logo
-3. Resize and align **Center**
+3. Resize and Format > **align Text** **Center**
 
 ### 3.2 Add University Name
 
