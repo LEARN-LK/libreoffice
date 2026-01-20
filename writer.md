@@ -75,7 +75,7 @@ A **one-page official circular** containing:
 
 1. Go to **Insert → Image**
 2. Select university logo
-3. Resize and Format > **align Text** **Center**
+3. Resize and  **Format** > **align Text** **Center**
 
 ### 3.2 Add University Name
 
