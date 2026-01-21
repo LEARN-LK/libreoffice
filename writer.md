@@ -196,11 +196,12 @@ Dean
 Faculty of Science
 ```
 
+* **Align Right**
 ---
 
 ##  Step 11: Insert Footer with Page Number
 
-1. Go to **Insert → Footer → Default Page Style**
+1. Go to **Insert →  **Header and Footer** → Footer → Default Page Style**
 2. Click in footer
 3. Go to **Insert → Field → Page Number**
 4. Align **Center**
