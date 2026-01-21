@@ -256,6 +256,10 @@ Faculty of Science
 2. Check formatting
 3. **File → Print**
 
+##  Final Output
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-final-output.png"  style="max-width: 100%;width: 500px;">
+
 ---
 
 #  Practice Tasks (For Trainees)
