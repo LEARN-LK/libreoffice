@@ -54,6 +54,8 @@ A **one-page official circular** containing:
 
 ##  Step 2: Set Page Layout (Very Important)
 
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-learn-Page-Layout.png"  style="max-width: 100%;width: 500px;">
+
 1. Go to **Format → Page Style**
 2. Set:
 
@@ -73,9 +75,13 @@ A **one-page official circular** containing:
 
 ### 3  add Header
 
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-add-Header.png"  style="max-width: 100%;width: 500px;">
+
 1. **Insert** > **Header and Footer** > **Header** > **Default Page Style**
 
 ### 3.1 Insert Logo
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-Insert-Logo.png"  style="max-width: 100%;width: 500px;">
 
 1. Go to **Insert → Image**
 2. Select university logo
@@ -99,6 +105,8 @@ Faculty of Science
 ---
 
 ##  Step 4: Insert Horizontal Line
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-Insert-Horizontal-Line.png"  style="max-width: 100%;width: 500px;">
 
 1. Place cursor below header
 2. Go to **Format → Paragraph → Borders**
@@ -151,6 +159,8 @@ This is to inform all academic and non-academic staff that a faculty staff meeti
 
 ##  Step 8: Insert Table (Meeting Details)
 
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-table.png"  style="max-width: 100%;width: 500px;">
+
 1. Go to **Insert → Table**
 2. Columns: **2**
 3. Rows: **4**
@@ -169,6 +179,8 @@ Fill as follows:
 ---
 
 ##  Step 9: Insert Agenda (Bulleted List)
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-bullet.png"  style="max-width: 100%;width: 500px;">
 
 Type:
 
@@ -200,6 +212,8 @@ Faculty of Science
 ---
 
 ##  Step 11: Insert Footer with Page Number
+
+<img src="https://github.com/LEARN-LK/libreoffice/blob/main/0-footer.png"  style="max-width: 100%;width: 500px;">
 
 1. Go to **Insert →  **Header and Footer** → Footer → Default Page Style**
 2. Click in footer
